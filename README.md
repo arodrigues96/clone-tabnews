@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do tabnews.com.br pro curso.dev
+Creating a clone of the website tabnews.com.br. This is part of the course 'curso.dev' by Felipe Deschamps.
